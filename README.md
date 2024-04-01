@@ -54,6 +54,7 @@ php flarum cache:clear
 
 | Extension | Status |
 | --- | --- |
+| [`flarum/extension-manager`](https://github.com/flarum/extension-manager) | [![Translation status](https://weblate.rob006.net/widgets/flarum/eo/flarum-extension-manager/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-extension-manager/eo/) |
 
 <!-- flarum-extensions-list-stop -->
 
