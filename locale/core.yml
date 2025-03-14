@@ -40,3 +40,28 @@ core:
       home_page_heading: Hejmpaĝo
       home_page_text: 'Elektu la paĝon, kiun uzantoj vidos unue kiam ili vizitos vian forumon.'
       show_language_selector_label: 'Montru lingvoselektilon'
+      welcome_banner_heading: 'Bonvena Standardo'
+      welcome_banner_text: 'Agordu la tekston, kiu aperas en la standardo sur la paĝo Ĉiuj Diskutoj. Uzu ĉi tion por bonvenigi gastojn al via forumo.'
+    create_user:
+      email_confirmed_label: 'Postuli uzanton konfirmi ĉi tiun retpoŝton'
+      email_placeholder: '=> core.ref.email'
+      password_placeholder: '=> core.ref.password'
+      submit_and_create_another_button: 'Kreu kaj aldonu alian'
+      submit_button: 'Krei uzanton'
+      title: 'Krei novan uzanton'
+      use_random_password: 'Generu hazardan pasvorton'
+      username_placeholder: '=> core.ref.username'
+    dashboard:
+      status:
+        headers:
+          scheduler-status: Planilo
+        scheduler:
+          active: Aktiva
+          inactive: Neaktiva
+          never-run: 'Neniam iris'
+      title: Panelo
+      tools_button: Iloj
+    edit_css:
+      submit_button: '=> core.ref.save_changes'
+    edit_footer:
+      customize_text: '=> core.ref.custom_footer_text'
