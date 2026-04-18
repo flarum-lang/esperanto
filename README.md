@@ -19,7 +19,7 @@ This language pack contains Esperanto translations for Flarum (compatible with `
 You can install language pack using [Composer](https://getcomposer.org/):
 
 ```console
-composer require flarum-lang/esperanto:dev-master
+composer require "flarum-lang/esperanto:@dev"
 ```
 
 Then enable extension in admin panel of your Flarum.
