@@ -75,6 +75,7 @@ php flarum cache:clear
 
 | Extension | Status |
 | --- | --- |
+| [`startracex/flarum-dark`](https://github.com/startracex/flarum-dark) | [![Translation status](https://weblate.rob006.net/widgets/flarum/eo/startracex-dark/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/startracex-dark/eo/) |
 
 <!-- various-extensions-list-stop -->
 
