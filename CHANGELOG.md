@@ -1,0 +1,19 @@
+CHANGELOG
+=========
+
+
+1.0.0 (XXXX-XX-XX)
+------------------
+
+**General changes**:
+
+* Updated Day.js translations.
+* Updated Flarum core translations.
+
+
+**Added support for new extensions**:
+
+* [`flarum/extension-manager`](https://github.com/flarum/extension-manager)
+* [`startracex/flarum-dark`](https://github.com/startracex/flarum-dark)
+
+
