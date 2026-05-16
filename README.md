@@ -1,6 +1,6 @@
 > **This language pack is searching for a maintainer!**
 >
-> This language pack is maintained by the community. Anyone can translate through [Weblate](https://weblate.rob006.net/languages/eo/flarum/) and no one verifies contributed translations. If you want to help maintain this package, you can contact us in [this discussion](https://discuss.flarum.org/d/27519-the-flarum-language-project).
+> This language pack is maintained by the community. Anyone can translate through [Weblate](https://weblate.rob006.net/languages/eo/flarum2/) and no one verifies contributed translations. If you want to help maintain this package, you can contact us in [this discussion](https://discuss.flarum.org/d/27519-the-flarum-language-project).
 
 
 # Esperanto language pack for [Flarum](https://flarum.org/)
@@ -44,8 +44,8 @@ php flarum cache:clear
 
 | Component | Status |
 | --- | --- |
-| [Core](https://github.com/flarum/flarum-core) | [![Translation status](https://weblate.rob006.net/widgets/flarum/eo/core/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/core/eo/) |
-| Validation | [![Translation status](https://weblate.rob006.net/widgets/flarum/eo/validation/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/validation/eo/) |
+| [Core](https://github.com/flarum/flarum-core) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/eo/core/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/core/eo/) |
+| Validation | [![Translation status](https://weblate.rob006.net/widgets/flarum2/eo/validation/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/validation/eo/) |
 
 
 ## Translation status for official extensions
