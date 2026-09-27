@@ -13,6 +13,6 @@ CHANGELOG
 
 **Added support for new extensions**:
 
-* [`flarum/extension-manager`](https://github.com/flarum/extension-manager)
+* [`flarum/extension-manager`](https://github.com/flarum/extension-manager) (1% complete)
 
 
