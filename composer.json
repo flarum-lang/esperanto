@@ -1,26 +1,20 @@
 {
 	"name": "flarum-lang/esperanto",
+	"description": "Esperanto Language Pack for Flarum",
 	"type": "flarum-extension",
-	"description": "Esperanto language pack for Flarum.",
-	"homepage": "https://github.com/flarum-lang/esperanto",
 	"keywords": [
-		"locale",
-		"flarum",
-		"flarum-locale",
-		"eo-locale",
-		"esperanto-locale",
-		"esperanto"
+		"flarum-locale"
 	],
+	"homepage": "https://github.com/flarum-lang/esperanto",
 	"license": "MIT",
 	"support": {
 		"issues": "https://github.com/flarum-lang/esperanto/issues",
+		"forum": "https://discuss.flarum.org/d/40181",
 		"source": "https://github.com/flarum-lang/esperanto"
 	},
 	"require": {
 		"flarum/core": "^2.0"
 	},
-	"minimum-stability": "dev",
-	"prefer-stable": true,
 	"extra": {
 		"flarum-extension": {
 			"title": "Esperanto",
@@ -34,12 +28,6 @@
 		"flarum-locale": {
 			"code": "eo",
 			"title": "Esperanto"
-		},
-		"extiverse": {
-			"discuss": ""
-		},
-		"branch-alias": {
-			"dev-master": "1.x-dev"
 		}
 	}
 }
